@@ -1,0 +1,10 @@
+01:44:58 **** Incremental Build of configuration Debug for project LVGL_SPI_STM32F401RE ****
+make -j12 all 
+arm-none-eabi-size   LVGL_SPI_STM32F401RE.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 166372	    172	  77820	 244364	  3ba8c	LVGL_SPI_STM32F401RE.elf
+Finished building: default.size.stdout
+ 
+
+01:45:08 Build Finished. 0 errors, 0 warnings. (took 9s.122ms)
+
